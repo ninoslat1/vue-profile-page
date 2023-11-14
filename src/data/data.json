@@ -1,0 +1,88 @@
+{
+    "images": [
+      {
+        "src": "../assets/131083520__750.jpg",
+        "description": "Bukit Kembar Puncak Pinus",
+        "address": "Loji, Kampung Cikamuning, Desa Cintawargi, Kecamatan Tegalwaru",
+        "price": 0,
+        "links": "https://maps.app.goo.gl/pRWEaVMwdJUyisFT6"
+      },
+      {
+        "src": "../assets/1861536882__700.jpg",
+        "description": "Green Canyon",
+        "address": "Desa Medalsari, Kecamatan Pangkalan",
+        "price": 1,
+        "links": "https://maps.app.goo.gl/7fhcsa6aEKNcecgQ6"
+      },
+      {
+        "src": "../assets/abil-048__1024.jpg",
+        "description": "Curug Cigentis",
+        "address": " Desa Mekarbuana, Kecamatan Tegalwaru",
+        "price": 2,
+        "links": "https://maps.app.goo.gl/7YsXAFH9EtnfKnCs7"
+      },
+      {
+        "src": "../assets/abil-062-min__1146.png",
+        "description": "Kampung Turis Karawang",
+        "address": "Kampung Parakan Badak, Kelurahan Mekarbuana, Kecamatan Tegalwaru",
+        "price": 3,
+        "links": "https://maps.app.goo.gl/JL8M2mSJhnKrC6Q68"
+      },
+      {
+        "src": "../assets/IMG-20191125-WA0024__1280.jpg",
+        "description": "Pantai Samudera Baru",
+        "address": "Jalan Raya Sungai Buntu, Kecamatan Pedes",
+        "price": 1,
+        "links": "https://maps.app.goo.gl/F4uTUXqCDY66LbFP7"
+      },
+      {
+        "src": "../assets/karawang-center-pantai-pakis-e1596969958754__400.jpg",
+        "description": "Pantai Tanjung Pakis",
+        "address": "Desa Tanjungpakis, Kecamatan Pakisjaya",
+        "price": 1,
+        "links": "https://maps.app.goo.gl/d9Y4SvxUWyCzYMcv9"
+      },
+      {
+        "src": "../assets/kolam-renang-ala-resort__799.jpg",
+        "description": "Taman Hudhud",
+        "address": "Jl. Proklamasi, Sudun Sasak, Desa Amansari, Kecamatan Rengasdengklok",
+        "price": 4,
+        "links": "https://maps.app.goo.gl/MEfa73WhvkVbn6S6A"
+      },
+      {
+        "src": "../assets/lesehan-sambil-bersantai__800.jpg",
+        "description": "Wana Wisata Puncak Sempur",
+        "address": " Desa Cintalaksana, Kecamatan Tegalwaru",
+        "price": 1,
+        "links": "https://maps.app.goo.gl/saFKaJPs4XLz2jgr8"
+      },
+      {
+        "src": "../assets/Taman-Kincir-Angin-Karawang-1__1079.jpg",
+        "description": "Taman Kincir Angin Karawang",
+        "address": "Desa Tamelang, Kecamatan Purwasari",
+        "price": 0,
+        "links": "https://maps.app.goo.gl/nB1WhFKmLVct3etZ9"
+      },
+      {
+        "src": "../assets/taruma-leisure-waterpark__800.jpg",
+        "description": "Taruma Leisure Waterpark",
+        "address": "Perumahan Grand Taruma, Jl. Raya Tol, Sukamakmur, Kecamatan Telukjambe Timur",
+        "price": 5,
+        "links": "https://maps.app.goo.gl/L8nsKmQBTU9ZNFVt9"
+      },
+      {
+        "src": "../assets/us9qtnslshzgmfof3wyx__1199.jpg",
+        "description": "Candi Jiwa",
+        "address": "Desa Segaran, Kecamatan Batujaya",
+        "price": 1,
+        "links": "https://maps.app.goo.gl/HU7DfaCsxqhAqUyo6"
+      },
+      {
+        "src": "../assets/Pantai-Sarakan.jpg.png",
+        "description": "Pantai Sarakan",
+        "address": "Desa Tambaksari, Kecamatan Tirtajaya",
+        "price": 0,
+        "links": "https://maps.app.goo.gl/9gBNrA8qcDCCCFX18"
+      }
+    ]
+  }
